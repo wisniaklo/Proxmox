@@ -59,7 +59,7 @@ KillSignal=SIGINT
 SyslogIdentifier=node-red
 StandardOutput=syslog
 
-WorkingDirectory=/root/
+WorkingDirectory=/home/
 User=root
 Group=root
 
